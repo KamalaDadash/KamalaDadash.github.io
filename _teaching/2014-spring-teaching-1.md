@@ -20,3 +20,4 @@ location: "Bowling Green, KY, USA"
 
 * Fall 2018: Graduate Teaching Assistant
    *Led two sections of recitation for Honors Calculus II (MATH137)
+======
