@@ -1,20 +1,34 @@
 ---
-title: "Teaching experience 2"
+title: "North Carolina State University"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course"
+permalink: /teaching/2014-spring-teaching-1
+venue: "North Carolina State University, Mathematics Department"
+date: August 18, 2020
+location: "Raleigh, NC, USA."
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+* Fall 2020: Graduate Teaching Assistant
+   * Led two sections of recitation for Introduction to Finite Mathematics (MA114)
+  
+* Spring 2021: Graduate Teaching Assistant
+   * Led two sections of recitation for Calculus II (MA241)
 
-Heading 1
-======
+* Summer 2021: Instructor
+   * Taught Precalculus Algebra and Trigonometry (MA111)
 
-Heading 2
-======
+* Fall 2021: Graduate Teaching Assistant
+   * Led two sections of recitation for Calculus II (MA241)
 
-Heading 3
-======
+* Fall 2022: Instructor
+   * Taught Precalculus (MA107)
+
+* Spring 2023: Lecture Assistant
+   * Calculus II (MA241)
+   * Differential Equations (MA341)
+ 
+* Fall 2023: Instructor
+   * Taught Calculus I (MA131)
+ 
+* Spring 2024: Instructor
+   * Taught Calculus I (MA131)
