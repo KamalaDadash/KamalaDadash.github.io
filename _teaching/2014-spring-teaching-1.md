@@ -4,11 +4,10 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Western Kentucky University, Mathematics Department"
-date: 2018
+date: August 18, 2018
 location: "Bowling Green, KY, USA."
 ---
-Teaching experience
-======
+
 * Spring 2020: Graduate Teaching Assistant
    * Led two sections of recitation for Calculus II (MATH137)
   
