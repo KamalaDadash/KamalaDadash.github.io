@@ -12,9 +12,9 @@ title                    : "Kamala's Webpage"
 title_separator          : "-"
 name                     : &name "Kamala Dadashova"
 description              : &description "personal description"
-url                      : https://KamalaDadash.github.io/ 
+url                      : #https://KamalaDadash.github.io/ 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "KamalaDadash/KamalaDadashova.github.io"
+repository               : #"KamalaDadash/KamalaDadashova.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
