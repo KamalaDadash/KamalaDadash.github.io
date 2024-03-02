@@ -1,20 +1,22 @@
 ---
-title: "Teaching experience 1"
+title: "Western Kentucky University"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Western Kentucky University, Mathematics Department."
+date: 2018-2020
+location: "Bowling Green, KY, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
 ======
+* Spring 2020: Graduate Teaching Assistant
+   *Led two sections of recitation for Calculus II (MATH137)
+  
+* Fall 2019: Graduate Teaching Assistant
+   *Led three sections of recitation for Calculus II (MATH137)
 
-Heading 2
-======
+* Spring 2019: Graduate Teaching Assistant
+   *Led two sections of recitation for Calculus I (MATH136)
 
-Heading 3
-======
+* Fall 2018: Graduate Teaching Assistant
+   *Led two sections of recitation for Honors Calculus II (MATH137)
