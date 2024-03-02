@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://github.com/KamalaDadash/KamalaDadashova.github.io/blob/5e0535e1c357567c3a5312853726080415f708b5/images/profile.jpg"
+  avatar           : "https://github.com/KamalaDadash/KamalaDadashova.github.io/blob/98269f578fb1b8ae4511042e6087fbd67271c1ad/images/profile.jpg"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
