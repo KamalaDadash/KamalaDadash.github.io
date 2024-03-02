@@ -12,7 +12,7 @@ title                    : "Kamala's Webpage"
 title_separator          : "-"
 name                     : &name "Kamala Dadashova"
 description              : &description "personal description"
-url                      : https://github.com/KamalaDadash/KamalaDadashova.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://KamalaDadashova.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "KamalaDadash/KamalaDadashova.github.io"
 
