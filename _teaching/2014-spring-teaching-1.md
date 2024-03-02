@@ -3,9 +3,9 @@ title: "Western Kentucky University"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "Western Kentucky University, Mathematics Department."
+venue: "Western Kentucky University, Mathematics Department"
 date: 2018-2020
-location: "Bowling Green, KY, USA"
+location: "Bowling Green, KY, USA."
 ---
 
 * Spring 2020: Graduate Teaching Assistant
