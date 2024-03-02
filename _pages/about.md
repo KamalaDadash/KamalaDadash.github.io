@@ -11,6 +11,7 @@ Education
 ======
 * Ph.D. in Applied Mathematics, North Carolina State University, 2020-2024(expected)
 * M.S. in Mathematics, Western Kentucky University, 2018-2020
+* B.A. in Mathematics Education, Baku Engineering University, 2013-2018
 
 Research experience
 ======
@@ -31,3 +32,4 @@ Description of research...
 
 Selected awards and fellowships
 ======
+
