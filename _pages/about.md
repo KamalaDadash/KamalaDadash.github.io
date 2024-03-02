@@ -14,17 +14,20 @@ Education
 
 Research experience
 ======
-* Graduate Research Assistant, 2020-Present
-  * North Carolina State University
-  <!-- * Advisor: Ralph Smith, Mansoor Haider -->
+**Graduate Research Assistant**  
+_2020-Present_  
+**North Carolina State University**  
+Research projects details...
 
-* Quantitative System Pharmacology Intern, Summer 2023
-  * Pfizer, Boston, MA
-  <!-- * Supervisor: Richard Allen, Rohit Rao, Cody Hodge  -->
+**Quantitative System Pharmacology Intern**  
+_Summer 2023_  
+**Pfizer, Boston, MA**  
+Responsibilities and projects details...
 
-* Graduate Research Assistant, 2019-2020
-  * Western Kentucky University
-  <!-- * Advisor: Ferhan Atici -->
+**Graduate Research Assistant**  
+_2019-2020_  
+**Western Kentucky University**  
+Description of research...
 
 Selected awards and fellowships
 ======
