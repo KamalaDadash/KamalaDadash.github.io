@@ -1,5 +1,5 @@
 ---
-title: "North Carolina State University"
+title: "North Carolina State University (2020-2024)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-2
