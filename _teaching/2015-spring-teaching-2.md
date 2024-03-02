@@ -2,7 +2,7 @@
 title: "North Carolina State University"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2014-spring-teaching-2
 venue: "North Carolina State University, Mathematics Department"
 date: August 18, 2020
 location: "Raleigh, NC, USA."
