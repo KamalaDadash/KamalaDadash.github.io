@@ -9,14 +9,7 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
 ---
-\* equal contribution
 
 1. __K. Dadashova__, C Jameson, S Baldwin, J Nardini, R Smith, J Haugh, K Flores. [Local Identifiability Analysis,Parameter Subset Selection and Verification for a Minimal Brain PBPK Model]([https://doi.org/10.1016/j.mbs.2024.109158](https://pubmed.ncbi.nlm.nih.gov/38170402/)). *Bull Math Biol*. 86(2), 2024.
 
