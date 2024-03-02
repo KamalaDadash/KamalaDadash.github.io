@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+#title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,30 +9,22 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Biomathematics, North Carolina State University, May 2024 (expected)
-* B.S. in Computational Mathematical Sciences, Arizona State University, May 2019
+* Ph.D. in Applied Mathematics, North Carolina State University, 2020-2024(expected)
+* M.S. in Mathematics, Western Kentucky University, 2018-2020
 
 Research experience
 ======
-* Graduate Research Assistant, Fall 2019 to Present
-  * [Flores Lab](https://kbflores.wordpress.ncsu.edu/), North Carolina State University
-  <!-- * Supervisor: Kevin B. Flores -->
+* Graduate Research Assistant, 2020-Present
+  * North Carolina State University
+  <!-- * Advisor: Ralph Smith, Mansoor Haider -->
 
-* Quantitative Research Intern, Summer 2022
-  * Center for AIDS Research, Duke University School of Medicine
-  <!-- * Supervisor: Janice M. McCarthy and S. Moses Dennison -->
+* Quantitative System Pharmacology Intern, Summer 2023
+  * Pfizer, Boston, MA
+  <!-- * Supervisor: Richard Allen, Rohit Rao, Cody Hodge  -->
 
-* Quantitative Research Intern, Summer 2021
-  * Center for AIDS Research, Duke University School of Medicine
-  <!-- * Supervisor: Janice M. McCarthy and S. Moses Dennison -->
-  
-* Machine Learning Intern, Summer 2020
-  * Formal Methods Research Program, NASA Langley Research Center
-  <!-- * Supervisor: Mariano M. Moscato and J. Tanner Slagel -->
-
-* Undergraduate Research Assistant, Summer 2018
-  * Arizona State University
-  <!-- * Supervisor: Yang Kuang -->
+* Graduate Research Assistant, 2019-2020
+  * Western Kentucky University
+  <!-- * Advisor: Ferhan Atici -->
 
 Selected awards and fellowships
 ======
