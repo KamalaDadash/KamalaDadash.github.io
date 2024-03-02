@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Western Kentucky University, Mathematics Department"
-date: 2018-2020
+date: 2018
 location: "Bowling Green, KY, USA."
 ---
 Teaching experience
