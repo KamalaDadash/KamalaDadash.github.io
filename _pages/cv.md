@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+[My Full CV](/Kamala_CV.pdf)
 {% include base_path %}
 
 Education
