@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Kamala's Webpage"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
