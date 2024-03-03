@@ -19,20 +19,23 @@ Education
 | B.A. in Mathematics Education | Baku Engineering University | 2013-2018 |
 
 
-Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Graduate Research Assistant, NCSU
+  * Developed a sensitivity-based parameter subset selection (PSS) algorithms to determine identifiable parameter subsets for 
+    mPBPK model of the brain with 31 parameters and 16 dependent variables.
+  * Implemented the algorithms for the mPBPK model and validated outcomes using both qualitative and quantitative techniques in 
+    MATLAB  to evaluate and compare accuracy.
+  * Integrated PSS results with Bayesian inference to compute more accurate parameter estimates while significantly improving 
+    computational efficiency.
+  * Prepared weekly reports for a research meeting
+  * Attended conferences to present obtained results
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Quantitative Systems Pharmacology(QSP) Intern, Pfizer
+  * Worked on developing a QSP model of VZV vaccine immunogenicity to match published Shingrix clinical data
+  * Collaborated with other modelers and clinical pharmacologists
+  * Attended and presented weekly results in the subgroup and group meetings
+  * Presented the talk about the obtained results for the project at the end of the internship 
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+
   
