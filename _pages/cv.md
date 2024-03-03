@@ -31,11 +31,11 @@ Research Experience
   * Prepared weekly reports for a research meeting
   * Attended conferences to present obtained results
 
-* Quantitative Systems Pharmacology(QSP) Intern, Pfizer
+* Quantitative Systems Pharmacology (QSP) Intern, Pfizer
   * Worked on developing a QSP model of VZV vaccine immunogenicity to match published Shingrix clinical data
   * Collaborated with other modelers and clinical pharmacologists
   * Attended and presented weekly results in the subgroup and group meetings
-  * Presented the talk about the obtained results for the project at the end of the internship 
+  * Presented the talk about the outcomes of the project at the end of the internship 
 
 
   
