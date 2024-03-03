@@ -21,7 +21,9 @@ Education
 
 Research Experience
 ======
-* Graduate Research Assistant, NCSU
+**Graduate Research Assistant**  
+_2020-Present_  
+**North Carolina State University, Raleigh, NC** 
   * Developed a sensitivity-based parameter subset selection (PSS) algorithms to determine identifiable parameter subsets for 
     mPBPK model of the brain with 31 parameters and 16 dependent variables.
   * Implemented the algorithms for the mPBPK model and validated outcomes using both qualitative and quantitative techniques in 
@@ -31,7 +33,9 @@ Research Experience
   * Prepared weekly reports for a research meeting
   * Attended conferences to present obtained results
 
-* Quantitative Systems Pharmacology (QSP) Intern, Pfizer
+**Quantitative Systems Pharmacology (QSP) Intern**  
+_May-August 2023_  
+**Pfizer, Boston, MA** 
   * Worked on developing a QSP model of VZV vaccine immunogenicity to match published Shingrix clinical data
   * Collaborated with other modelers and clinical pharmacologists
   * Attended and presented weekly results in the subgroup and group meetings
