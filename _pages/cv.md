@@ -11,6 +11,7 @@ redirect_from:
 
 Education
 ======
+
 | Degree | Institution | Years |
 | ------ | ----------- | ----- |
 | Ph.D. in Applied Mathematics | North Carolina State University | 2020-2024 (expected) |
