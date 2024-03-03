@@ -11,3 +11,5 @@ I am a fourth-year applied mathematics Ph.D. student in the [Mathematics departm
 
 My research interest includes different aspects of applied mathematics, such as Uncertainty Quantification, Bayesian statistics, Mathematical and Statistical Modeling, and Machine Learning. 
 
+
+![Alt text](/files/macbook-pro-on-wooden-countertop-m4bzo4n7f1nf1ofr.webp)
